@@ -1,4 +1,4 @@
-- **[Orbitle](https://github.com/fighxy/Orbitle)** — нативный клиент MAX для iOS на SwiftUI
+- **[Orbitle](https://github.com/fighxy/Orbitle)** — нативный клиент MAX для iOS, Android и компьютера на общем KMP-ядре
 - **[Orbit](https://github.com/fighxy/orbit)** — P2P-мессенджер на Rust с клиентами на KMP
 - **[max-kmp-core](https://github.com/fighxy/max-kmp-core)** — сетевое ядро MAX на Kotlin Multiplatform
 - **[KometPro](https://github.com/fighxy/KometPro)** — форк Komet: клиент MAX на Flutter

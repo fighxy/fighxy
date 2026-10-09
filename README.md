@@ -1,6 +1,6 @@
-- **[Orbitle](https://github.com/fighxy/Orbitle)** — нативный клиент MAX для iOS, Android и компьютера на общем KMP-ядре
+- **[Maxly](https://github.com/fighxy/Maxly)** 🕊 — клиент MAX без телеметрии и слежки, с режимом призрака: iOS на SwiftUI, Android и Desktop на Compose
 - **[Orbit](https://github.com/fighxy/orbit)** — P2P-мессенджер на Rust с клиентами на KMP
-- **[max-kmp-core](https://github.com/fighxy/max-kmp-core)** — сетевое ядро MAX на Kotlin Multiplatform
+- **[maxly-core](https://github.com/fighxy/maxly-core)** — ядро Maxly на Kotlin Multiplatform: протокол MAX для всех клиентов
 - **[KometPro](https://github.com/fighxy/KometPro)** — форк Komet: клиент MAX на Flutter
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)

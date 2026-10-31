@@ -1,5 +1,5 @@
 - **[Maxly](https://github.com/fighxy/Maxly)** 🕊 — клиент MAX без телеметрии и слежки, с режимом призрака: iOS на SwiftUI, Android и Desktop на Compose
-- **[egl-viewer](https://github.com/fighxy/egl-viewer)** 🖼 — десктоп-библиотека картинок и референсов, совместимая с Eagle: Rust + Tauri + React
+- **[egl-viewer](https://github.com/fighxy/egl-viewer)** 🖼 — десктоп-просмоторщик изображений, менеджмент и сортировка, совместимость с Eagle: Rust + Tauri + React
 - **[Scrobb](https://github.com/fighxy/scrobb)** 🎧 — Десктоп оффлайн плеер, (in-progress)скробблинг-сервис - аналог Last.fm : ядро на Rust, десктоп на Tauri
 - **[Orbit](https://github.com/fighxy/orbit)** — P2P-мессенджер на Rust с клиентами на KMP
 - **[maxly-core](https://github.com/fighxy/maxly-core)** — ядро Maxly на Kotlin Multiplatform: протокол MAX для всех клиентов
